@@ -1,0 +1,734 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                5.679999828338623,
+                5.670000076293945,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                3.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                2.8399999141693117,
+                2.8399999141693117,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                2.379999876022339,
+                0.429999977350235,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 48,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 96,
+            "byteLength": 32,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 128,
+            "byteLength": 24,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 152,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 200,
+            "byteLength": 48,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 248,
+            "uri": "visitenkarte_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.0003077217552345246,
+                "yfov": 0.6024156808853149,
+                "zfar": 16.92469596862793,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "Layer 0.PNG_png1_Layer 0.PNG_png1",
+            "uri": "visitenkarte_images/Layer 0.PNG_png1_Layer 0.PNG_png1.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Layer 1.PNG_png1_Layer 1.PNG_png1",
+            "uri": "visitenkarte_images/Layer 1.PNG_png1_Layer 1.PNG_png1.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Layer 1.PNG_png2_Layer 1.PNG_png2",
+            "uri": "visitenkarte_images/Layer 1.PNG_png2_Layer 1.PNG_png2.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Layer 1.PNG_png3_Layer 1.PNG_png3",
+            "uri": "visitenkarte_images/Layer 1.PNG_png3_Layer 1.PNG_png3.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Layer 1.PNG_png5_Layer 1.PNG_png5",
+            "uri": "visitenkarte_images/Layer 1.PNG_png5_Layer 1.PNG_png5.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "Layer 1.PNG_png6_Layer 1.PNG_png6",
+            "uri": "visitenkarte_images/Layer 1.PNG_png6_Layer 1.PNG_png6.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_0",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_1",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 2
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_1_1",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_1_2",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "name": "Layer_1_3",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 4
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_1_4",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 5
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6000000238418579
+            },
+            "alphaMode": "BLEND",
+            "name": "Layer_1_5",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Layer_0_Mesh_primitive",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 4
+                    },
+                    "indices": 3,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive_0_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 4
+                    },
+                    "indices": 3,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive_0_0_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 5,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive_0_0_0_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "Layer_1_Mesh_primitive_0_0_0_0_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 6
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                5,
+                8,
+                11,
+                14,
+                17,
+                20
+            ],
+            "translation": [
+                3.0517577442878976e-7,
+                0.0,
+                0.0
+            ],
+            "name": "Visitenkarte"
+        },
+        {
+            "children": [
+                3
+            ],
+            "name": "Kai_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                4
+            ],
+            "translation": [
+                -0.8749991655349731,
+                0.2000013142824173,
+                3.836310625076294
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -2.397746138736636e-15,
+                6.181724643283815e-8,
+                0.7071067690849304
+            ],
+            "scale": [
+                2744.810302734375,
+                2744.810302734375,
+                2744.810302734375
+            ],
+            "name": "Kai_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.00035277777351439,
+                0.00035277777351439,
+                0.00035277777351439
+            ],
+            "mesh": 0,
+            "name": "Layer_0_Mesh_primitive"
+        },
+        {
+            "children": [
+                6
+            ],
+            "name": "linkedin_icon_1_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                7
+            ],
+            "translation": [
+                5.624990940093994,
+                0.20000037550926209,
+                3.9092800617218019
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -6.181723932741079e-8,
+                -3.8035641801957568e-15,
+                0.7071067690849304
+            ],
+            "scale": [
+                998.1096801757813,
+                998.1096801757813,
+                998.1096801757813
+            ],
+            "name": "linkedin_icon_1_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.0007055556052364409,
+                0.0007055556052364409,
+                0.0007055556052364409
+            ],
+            "mesh": 1,
+            "name": "Layer_1_Mesh_primitive"
+        },
+        {
+            "children": [
+                9
+            ],
+            "name": "mail_icon_1_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                10
+            ],
+            "translation": [
+                3.374990701675415,
+                0.20000137388706208,
+                1.0863111019134522
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -6.181723932741079e-8,
+                -3.8035641801957568e-15,
+                0.7071067690849304
+            ],
+            "scale": [
+                998.1096801757813,
+                998.1096801757813,
+                998.1096801757813
+            ],
+            "name": "mail_icon_1_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.0007055556052364409,
+                0.0007055556052364409,
+                0.0007055556052364409
+            ],
+            "mesh": 2,
+            "name": "Layer_1_Mesh_primitive_0"
+        },
+        {
+            "children": [
+                12
+            ],
+            "name": "telefon_icon_1_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                13
+            ],
+            "translation": [
+                3.474900722503662,
+                0.20000335574150086,
+                -1.9092899560928345
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -6.181723932741079e-8,
+                -3.8035641801957568e-15,
+                0.7071067690849304
+            ],
+            "scale": [
+                998.1096801757813,
+                998.1096801757813,
+                998.1096801757813
+            ],
+            "name": "telefon_icon_1_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.0007055556052364409,
+                0.0007055556052364409,
+                0.0007055556052364409
+            ],
+            "mesh": 3,
+            "name": "Layer_1_Mesh_primitive_0_0"
+        },
+        {
+            "children": [
+                15
+            ],
+            "name": "tim_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                16
+            ],
+            "translation": [
+                -2.3749992847442629,
+                3.7154563869989945e-7,
+                -1.913680076599121
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -2.7145519193610318e-15,
+                6.181723222198343e-8,
+                0.7071067690849304
+            ],
+            "scale": [
+                10123.703125,
+                10123.703125,
+                10123.703125
+            ],
+            "name": "tim_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.00041980555397458375,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.00035277780261822045,
+                0.00035277780261822045,
+                0.00035277780261822045
+            ],
+            "mesh": 4,
+            "name": "Layer_1_Mesh_primitive_0_0_0"
+        },
+        {
+            "children": [
+                18
+            ],
+            "name": "www_icon_1_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                19
+            ],
+            "translation": [
+                5.624990940093994,
+                0.20000137388706208,
+                1.0863120555877686
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -6.181723932741079e-8,
+                -3.8035641801957568e-15,
+                0.7071067690849304
+            ],
+            "scale": [
+                998.1096801757813,
+                998.1096801757813,
+                998.1096801757813
+            ],
+            "name": "www_icon_1_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.0007055556052364409,
+                0.0007055556052364409,
+                0.0007055556052364409
+            ],
+            "mesh": 5,
+            "name": "Layer_1_Mesh_primitive_0_0_0_0"
+        },
+        {
+            "children": [
+                21
+            ],
+            "name": "xing_icon_1_Scene_Replacement_Parent"
+        },
+        {
+            "children": [
+                22
+            ],
+            "translation": [
+                3.374990701675415,
+                0.20000037550926209,
+                3.9092800617218019
+            ],
+            "rotation": [
+                -0.7071067690849304,
+                -6.181723932741079e-8,
+                -3.8035641801957568e-15,
+                0.7071067690849304
+            ],
+            "scale": [
+                998.1096801757813,
+                998.1096801757813,
+                998.1096801757813
+            ],
+            "name": "xing_icon_1_Scene_Replacement"
+        },
+        {
+            "translation": [
+                -0.0010018888860940934,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.0007055556052364409,
+                0.0007055556052364409,
+                0.0007055556052364409
+            ],
+            "mesh": 6,
+            "name": "Layer_1_Mesh_primitive_0_0_0_0_0"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "Layer 0.PNG_png1_Layer 0.PNG_png1",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "Layer 1.PNG_png1_Layer 1.PNG_png1",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "Layer 1.PNG_png2_Layer 1.PNG_png2",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "Layer 1.PNG_png3_Layer 1.PNG_png3",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "Layer 1.PNG_png5_Layer 1.PNG_png5",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "Layer 1.PNG_png6_Layer 1.PNG_png6",
+            "sampler": 5,
+            "source": 5
+        }
+    ],
+    "scene": 0
+}
